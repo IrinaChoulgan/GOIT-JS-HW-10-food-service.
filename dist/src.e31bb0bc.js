@@ -2375,7 +2375,7 @@ function loadTheme(switchInput, body, Theme) {
     body.classList.add(Theme.LIGHT);
     switchInput.checked = false;
   }
-}
+} //
 },{"./menu.json":"menu.json","./templates/cards.hbs":"templates/cards.hbs"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';

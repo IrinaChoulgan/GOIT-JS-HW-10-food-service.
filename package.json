@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/IrinaChoulgan/goit-js-hw-10-food-service.git",
+  "homepage": "https://irinachoulgan.github.io/GOIT-JS-HW-10-food-service./",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-10-food-service/"
